@@ -1,0 +1,26 @@
+
+
+.img{
+    display: flex;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.card{
+    display: flex;
+    border: 1px dotted blue;
+    padding: 20px;
+    background-color: lightblue;
+}
+
+.bio{
+    margin-left: 30px;
+    margin-right: auto;
+    font-size: large;
+}
+
+.italic{
+    font-style: italic;
+}
